@@ -1,0 +1,10 @@
+{
+  "name": "Asset Wallet",
+  "description": "Personal asset tracking and document vault with expiry alerts and document scanning",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
